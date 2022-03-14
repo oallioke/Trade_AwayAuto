@@ -1,0 +1,17 @@
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\TradeAwayAuto.exe.config
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\TradeAwayAuto.exe
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\TradeAwayAuto.pdb
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\obj\Debug\TradeAwayAuto.csproj.AssemblyReference.cache
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\obj\Debug\TradeAwayAuto.csproj.SuggestedBindingRedirects.cache
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\obj\Debug\TradeAwayAuto.csproj.CoreCompileInputs.cache
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\obj\Debug\TradeAwayAuto.exe
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\obj\Debug\TradeAwayAuto.pdb
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\ClosedXML.dll
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\ExcelNumberFormat.dll
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\System.IO.Packaging.dll
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\ClosedXML.pdb
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\ClosedXML.xml
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\bin\Debug\ExcelNumberFormat.xml
+C:\Users\oalli-oke\source\repos\TradeAwayAuto\TradeAwayAuto\obj\Debug\TradeAwayAuto.csproj.CopyComplete
